@@ -3,12 +3,12 @@ name: David Zhang
 bio:
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/headshot_biking.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -38,33 +38,26 @@ permalink: /:title/
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/dz123/
+linkedin: dz123
 # youtube: myyoutube
 # spotify: myspotify
-github: https://dzballer.github.io/
+github: dzballer
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: https://medium.com/@hehehdz
+medium: hehehdz
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: dav.zhang@mail.utoronto.ca
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  davidzhang:
+    name: David Zhang
+    bio:
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/headshot_biking.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
