@@ -1,5 +1,5 @@
 -
-  picture_path: Kanto
+  title: Kanto
   directory: Kanto
   preview:
     filename: P4050498
@@ -7,7 +7,7 @@
     sizes: []
     thumbnail: P4050498-thumbnail.jpg
 -
-  picture_path: Kansai
+  title: Kansai
   directory: Kansai
   preview:
     filename: P4130432
@@ -15,7 +15,7 @@
     sizes: []
     thumbnail: P4130432-thumbnail.jpg
 -
-  picture_path: Shikoku
+  title: Shikoku
   directory: Shikoku
   preview:
     filename: P5060714
@@ -23,7 +23,7 @@
     sizes: []
     thumbnail: P5060714-thumbnail.jpg
 -
-  picture_path: Chugoku
+  title: Chugoku
   directory: Chugoku
   preview:
     filename: P5171256
@@ -31,7 +31,7 @@
     sizes: []
     thumbnail: P5171256-thumbnail.jpg
 -
-  picture_path: Kyushu
+  title: Kyushu
   directory: Kyushu
   preview:
     filename: P6132533
@@ -39,7 +39,7 @@
     sizes: []
     thumbnail: P6132533-thumbnail.jpg
 -
-  picture_path: Yakushima
+  title: Yakushima
   directory: Yakushima
   preview:
     filename: P6061823
@@ -47,7 +47,7 @@
     sizes: []
     thumbnail: P6061823-thumbnail.jpg
 -
-  picture_path: Honshu_Toward_Hokkaido
+  title: Honshu (Kyushu -> Hokkaido)
   directory: Honshu_Toward_Hokkaido
   preview:
     filename: DSCF3302
@@ -55,7 +55,7 @@
     sizes: []
     thumbnail: DSCF3302-thumbnail.jpg
 -
-  picture_path: Flood
+  title: 2018 Kyoto Floods
   directory: Flood
   preview:
     filename: DSCF2194
@@ -63,7 +63,7 @@
     sizes: []
     thumbnail: DSCF2194-thumbnail.jpg
 -
-  picture_path: Mt_Fuji
+  title: Mt Fuji
   directory: Mt_Fuji
   preview:
     filename: DSCF5507
@@ -71,7 +71,7 @@
     sizes: []
     thumbnail: DSCF5507-thumbnail.jpg
 -
-  picture_path: Fuji_Rock
+  title: Fuji Rock 2018
   directory: Fuji_Rock
   preview:
     filename: GOPR2592
@@ -79,15 +79,15 @@
     sizes: []
     thumbnail: GOPR2592-thumbnail.jpg
 -
-  picture_path: Nebuta
+  title: Nebuta
   directory: Nebuta
   preview:
-    filename: P4050498
-    original: P4050498-4608x3456.jpg
+    filename: DSCF7066
+    original: DSCF7066-6000x4000.jpg
     sizes: []
-    thumbnail: P4050498-thumbnail.jpg
+    thumbnail: DSCF7066-thumbnail.jpg
 -
-  picture_path: Hokkaido
+  title: Hokkaido
   directory: Hokkaido
   preview:
     filename: DSCF5572
@@ -95,7 +95,7 @@
     sizes: []
     thumbnail: DSCF5572-thumbnail.jpg
 -
-  picture_path: Bicycle
+  title: Hokkaido on Bicycle
   directory: Bicycle
   preview:
     filename: DSCF9613
@@ -103,7 +103,7 @@
     sizes: []
     thumbnail: DSCF9613-thumbnail.jpg
 -
-  picture_path: 2018_Hokkaido_Earthquake
+  title: 2018 Hokkaido Earthquake
   directory: 2018_Hokkaido_Earthquake
   preview:
     filename: DSCF5475
@@ -111,7 +111,7 @@
     sizes: []
     thumbnail: DSCF5475-thumbnail.jpg
 -
-  picture_path: Honshu_Toward_Tokyo
+  title: Honshu (Hokkaido -> Tokyo)
   directory: Honshu_Toward_Tokyo
   preview:
     filename: DSCF6325
@@ -122,7 +122,7 @@
   title: Italy
   directory: italy
   preview:
-  filename: DSCF9459.jp
-  original: DSCF9459.jp-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF9459.jp-6000x4000.jpg
+    filename: DSCF9459.jp
+    original: DSCF9459.jp-6000x4000.jpg
+    sizes: []
+    thumbnail: DSCF9459.jp-6000x4000.jpg

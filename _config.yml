@@ -12,12 +12,12 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+# resume: true
+# resume-external: true
+# resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+# url: https://sergiokopplin.github.io/indigo
+url: https://dzballer.github.io
 
 permalink: /:title/
 
@@ -115,6 +115,11 @@ defaults:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
       hidden: false
+  -
+    scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
 
 plugins:
   - jekyll-seo-tag
