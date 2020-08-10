@@ -11,9 +11,9 @@ author: davidzhang
 description:
 ---
 
-  ![](/img/1*8Ehw7DdnBfuIJBmDMfWWhg.jpeg)I’ve been eating vegetarian. Eating *as** a vegetarian.
+  ![](/img/1*8Ehw7DdnBfuIJBmDMfWWhg.jpeg){: class="bigger-image" }
 
-It hasn’t been as hard as I expected, to my own surprise. But it’s made me realize I’m more lactose intolerant than I thought I was.
+  I’ve been eating vegetarian. It hasn’t been as hard as I expected, to my own surprise. But it’s made me realize I’m more lactose intolerant than I thought I was.
 
 I’ve lost one and a half pounds. Face is a bit skinnier. Appetite’s gone down, and energy levels too. So basically my entire life has changed. I poo a lot (like, a lot).
 
@@ -27,15 +27,18 @@ It was “Oh nice chicken very nice,” and 16 hours later, “ ”
 
 I’m not sure what I was less aware of: that I’d eaten the chicken wing, or I was a vegetarian. And it made me question my motivations — maybe they weren’t strong or deep enough. Maybe vegetarianism had yet become part of my identity. Maybe I just didn’t care.
 
-Truth is, I still don’t really* *know. Most of the vegetarians I know are because some of 4 reasons: environment/sustainability, animal ethics, health, and/or religion. And if I think about it, I don’t know if I have any of these reasons.
+Truth is, I still don’t really know. Most of the vegetarians I know are because some of 4 reasons: environment/sustainability, animal ethics, health, and/or religion. And if I think about it, I don’t know if I have any of these reasons.
 
 Don’t get me wrong, they’re important to me — I care about the environment and I’m an animal — but more as byproducts of intentions rather than the main goal itself.
 
 There is something else I’m interested in. Perhaps it has to do with all of those things, or none of them.
 
-**My relationship with food. **What does that mean. No idea.
+My relationship with food, or something like that.
 
-![](/img/1*IaGXPtERoP2e-CAy4GnNuA.jpeg)niceI bought a sous vide a few months ago, and ever since people have been calling me Gordon. I don’t know why, but it seems to be an aftereffect of being able to make bombdotcomb chicken. My current street name is Gordon Sous-Vide David Zhang. Or just Gordon, if you’re my close friend.
+![](/img/1*IaGXPtERoP2e-CAy4GnNuA.jpeg){: class="bigger-image" }
+<figcaption class="caption">nice</figcaption>
+
+I bought a sous vide a few months ago, and ever since people have been calling me Gordon. I don’t know why, but it seems to be an aftereffect of being able to make bombdotcomb chicken. My current street name is Gordon Sous-Vide David Zhang. Or just Gordon, if you’re my close friend.
 
 A Sous Vide is a machine that cooks stuff (mainly meats) at perfect temperatures, and ups the meat consumption of whomever it touches three-billion-fold. My cholesterol levels were not having fun, but I was. My roommate would always pass by the kitchen during dinner time, look me in the eye, and with his best Borat impression say, “I can guess what you’re eating tonight!!”
 
@@ -43,7 +46,10 @@ A Sous Vide is a machine that cooks stuff (mainly meats) at perfect temperatures
 
 Anyways, the point is that I was eating meat excessively, and overconsumption dilutes meaning. I was eating without any regard for what the food actually was. Meat, to me, had become the same thing as rice, or lettuce, or bread, or egg. It became under the umbrella of the word “food”, in the most unitalicized-flat-grey-dull-brick umbrella possible.
 
-![](/img/1*Y8AMF7Q44uDKpMveUUO-ew.jpeg)sous vide babyTwo months ago, I had a dinner date with a friend where we made Tonkatsu (Deep fried pork chops) for the first time. I went to a Loblaws and got some meat, and then to an actual butcher shop to get some more meat, for comparison. But at the butcher, I looked at the prices and slightly pooped my pants and looked back at the dude.
+![](/img/1*Y8AMF7Q44uDKpMveUUO-ew.jpeg){: class="bigger-image" }
+<figcaption class="caption">sous vide baby</figcaption>
+
+Two months ago, I had a dinner date with a friend where we made Tonkatsu (Deep fried pork chops) for the first time. I went to a Loblaws and got some meat, and then to an actual butcher shop to get some more meat, for comparison. But at the butcher, I looked at the prices and slightly pooped my pants and looked back at the dude.
 
 “Man, these meats are way more expensive than supermarket meats.” I expected a premium, but not like a 300% premium.
 
@@ -69,7 +75,7 @@ Then maybe food was more than just food; it was deeply tied to the source — th
 
 Of course I *know* that meat is an animal, just like lettuce is a plant, but what does it mean to understand that — to be genuinely *aware*?
 
-Not (intentionally) an epistemological self-circle-jerk, but between eating food *and* it is an animal, and, eating food *that* is an animal*, *the former is associating food with an abstraction first, and then the source; the latter is understanding each food as the source directly — its own entity, the animal itself.
+Not (intentionally) an epistemological self-circle-jerk, but between eating food *and* it is an animal, and, eating food *that* is an animal, the former is associating food with an abstraction first, and then the source; the latter is understanding each food as the source directly — its own entity, the animal itself.
 
 But Gordon Sous-Vide David Zhang, I thought you said you didn’t care about animal ethics!? I do! But this actually has nothing to do with animal ethics. It is about the relationship with the *concept* of food. Rice, lettuce, instant noodles are no different — when we eat, everything just becomes the *word* “food”. At some level in my mind, I’d detached from what the actual meaning or *sources* of those foods were.
 
@@ -81,7 +87,10 @@ So I came home that day and looked my roommate in the eye, and with my best Bora
 
 And when I think about it, the reason I’m so impacted by this is because it isn’t even just about my relationship with food. It is about my relationship with everything.
 
-![](/img/1*iR6ZB2_qCC-uwboh230ksg.jpeg)kind of ugly but goodWhen I lived in Japan for a year, I noticed people would always put their hands together and say “Itadakimasu”, or “I receive”, before a meal. When I asked my friend if it prevented Satans from spawning out of fried tofu, he told me when we eat, we are receiving from: one, the cook(s) who make the food and two, the food itself. There is a cultural belief that there is “god” in everything; a brick, a grain of rice, my sous vide — everything is/has god. And thus a part of consuming and receiving food, and everything else, is also appreciating those gods — the sources.
+![](/img/1*iR6ZB2_qCC-uwboh230ksg.jpeg){: class="bigger-image" }
+<figcaption class="caption">kind of ugly but good</figcaption>
+
+When I lived in Japan for a year, I noticed people would always put their hands together and say “Itadakimasu”, or “I receive”, before a meal. When I asked my friend if it prevented Satans from spawning out of fried tofu, he told me when we eat, we are receiving from: one, the cook(s) who make the food and two, the food itself. There is a cultural belief that there is “god” in everything; a brick, a grain of rice, my sous vide — everything is/has god. And thus a part of consuming and receiving food, and everything else, is also appreciating those gods — the sources.
 
 The me in the past had lost meaning of what that meant, and vegetarianism to me is about trying to rebuild that meaning. The me in the future, will hopefully have a deeper association with those sources. Sources in the physical sense (actual animals, farms, communities, etc.), in the abstract sense (language, concepts, god, etc.), and in senses I don’t know yet. The me in the future might also have 8 arms and have an added honorific prefix ‘Bodhisattva’ before his name.
 
@@ -97,7 +106,13 @@ Perhaps there are parts of this food ignorance that lingers in other abstraction
 
 Becoming vegetarian is about understanding my relationship with food, and ultimately, I realize as I write this, **my relationship with myself**. The people around me, the music I love, my sous-vide, and the big big world and universe I’m a part of.
 
-![](/img/1*Z-H9ft0nxDSWdwY4txnF3g.jpeg)onions![](/img/1*cX8TegKDYbtUlhgTlSrOhA.jpeg)zen and the art of onion cuttingSo yeah, I’m on my 7th day of vegetarian. You can -1 since I ate that chicken wing, but since it was an accident, I’m not going to count it, and nobody’s going to stop me.
+![](/img/1*Z-H9ft0nxDSWdwY4txnF3g.jpeg){: class="bigger-image" }
+<figcaption class="caption">onions</figcaption>
+
+![](/img/1*cX8TegKDYbtUlhgTlSrOhA.jpeg){: class="bigger-image" }
+<figcaption class="caption">zen and the art of onion cutting</figcaption>
+
+So yeah, I’m on my 7th day of vegetarian. You can -1 since I ate that chicken wing, but since it was an accident, I’m not going to count it, and nobody’s going to stop me.
 
 For the first few days, I lived off bread and eggs and greek yogurt. Now I’ve started to discover more about muesli and lentils and spices. I want to challenge myself to cook non-meat mains, and different vegetarian cuisines.
 

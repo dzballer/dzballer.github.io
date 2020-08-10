@@ -11,7 +11,7 @@ author: davidzhang
 description:
 ---
 
-  ![](/img/1*BjaKq3XBawHRvmVY33wAKQ.jpeg)I’ve been caught in a cycle for the past year.
+  ![](/img/1*BjaKq3XBawHRvmVY33wAKQ.jpeg){: class="bigger-image" }\n<figcaption class="caption">I’ve been caught in a cycle for the past year.
 
 1. Experience A.
 2. Want to write about it.
@@ -22,7 +22,7 @@ description:
 7. Experience C.
 Until every letter of every alphabet has been exhausted.
 
-*I’m* exhausted.
+I'm exhausted.
 
 There are so many things I want to write about, but I just have no idea where to start. By order of recency? Importance? Memorability?
 
@@ -30,6 +30,6 @@ This incessant pondering — figuring out where to start itself is only adding o
 
 And sure sometimes I write down to-do lists, or daily entries, and stuff like that, but I haven’t actually *written* for so long, that I’ve lost my own sense of writing style. Even now, I’m struggling to find the right sentences for the right thoughts. My train of flow is everywhere.
 
-But maybe that’s a good thing.
+But maybe that’s a not a bad thing.
 
-![](/img/1*OYFaliiHO1BzNsGy9gKSCQ.jpeg)  
+![](/img/1*OYFaliiHO1BzNsGy9gKSCQ.jpeg){: class="bigger-image" }

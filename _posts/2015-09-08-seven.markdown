@@ -9,6 +9,7 @@ star: false
 category: blog
 author: davidzhang
 description:
+published: false
 ---
 
   I like to take walks. I feel like I’m more immersed in the world. The lights are brighter, the sounds are lighter, and even the air smells better. I lose track of time and just step into my own universe.

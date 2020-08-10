@@ -9,6 +9,7 @@ star: false
 category: blog
 author: davidzhang
 description:
+published: false
 ---
 
   Can you believe how crazy airfare is right now? Even with crude oil at $45/bbl. flights and their prices are still sky high. When transportation has become one of the most crucial aspects of our lives in the 21st Century, there’s no shortage of demand to fly. The conglomerates don’t loosen one knot on their monopolies. I probably sound like an old man, but holy cow is travelling expensive.
@@ -23,7 +24,7 @@ As I started to grow up and become more aware of my goals, I realized that trave
 
 **Passion** **is the why**.
 
-Out of the stack of plans I have this year, travelling around Asia was one of the most important. It wasn’t about taking a vacation or filling my Instagram with me squatted down, holding a peace sign pose in front of The Great Wall of China, it was about having a chance to immerse myself in a completely different culture and live my life in a completely different way. It was about *building my vision. *I believe in order to truly reap the rewards of travelling, you have to face it genuinely. Sure, being a tourist is fun, but you are spending most of your time on some overpriced activity that is shaped for and marketed towards foreigners; you only get to see a show — not the **real** culture and intricacies behind the stage.
+Out of the stack of plans I have this year, travelling around Asia was one of the most important. It wasn’t about taking a vacation or filling my Instagram with me squatted down, holding a peace sign pose in front of The Great Wall of China, it was about having a chance to immerse myself in a completely different culture and live my life in a completely different way. It was about *building my vision.* I believe in order to truly reap the rewards of travelling, you have to face it genuinely. Sure, being a tourist is fun, but you are spending most of your time on some overpriced activity that is shaped for and marketed towards foreigners; you only get to see a show — not the **real** culture and intricacies behind the stage.
 
 When you find a reason for your passion, you need to be able to put it into action. Organizing a plan and scheduling an itinerary is a lot more trouble than it looks. You have to research everything, apply for visas, book flights, find accommodation, plan days, and deal with a ton of logistics that will cause you to lose time, patience, and hair. If you want to take a 1 week vacation to a resort in Mexico, well I suppose that’s not a task for a hero, but if you want to seriously plan out a meaningful adventure, you bet your ass you’re going to need to work for it. You’re going to have to have some “drive”.
 

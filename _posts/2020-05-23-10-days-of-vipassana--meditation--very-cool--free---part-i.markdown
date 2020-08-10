@@ -5,7 +5,7 @@ date:	2020-05-23
 image:
 headerImage: false
 tag:
-star: true
+star: false
 category: blog
 author: davidzhang
 description:
@@ -23,7 +23,7 @@ description:
 
 Just feel, he’d said. Not *feel this* or *feel that.* Not *feel because *or *feel so that*; no how’s or why’s or what’s. No modifiers, descriptors, or any further instructions.
 
-Just, *feel *— the simple predicate.
+Just, *feel* — the simple predicate.
 
 Ok thanks, I say, bow my head, and walk out of the meditation hall. It’s a little vague, but I can see what he means.
 
@@ -33,11 +33,15 @@ A few other students are walking laps around the field outside. We’re not allo
 
 I’m at a 10 day silent meditation retreat. No talking, no heavy exercise, no reading or writing, no meat, no phones, no masturbating and no killing. It’s Day 3 of 10, and I don’t have that much to say; I’m still getting used to this — I think everyone is. Like unrelated sentences in a paragraph, we are awkwardly here alone, together.
 
+<br/>
+
 Some 20 other guys and 30 other girls are also here in the same retreat. We wake up and start meditating at 4:30AM. The sun rises, we have silent breakfast together, then meditate again. Lunch, and again. And like this, we continue for the rest of the day until 9PM (~10 hours meditation/day).
 
 Wow that’s a lot of meditation, I say to myself in third person. Yeah, it is, I reply back. Haha, third person me says. Haha, first person me says. So what do you think about <Rabbit Hole 23>? This is how I have been passing some of the time so far.
 
 Though, time has been more generous than I’d thought. The morning meditations go by quickly, and while Day 1 dragged along, Day 2 was better. Today time feels like it is moving as it should. Plus, not often do I get to sit on an open field and do a bit of nothing for a while. There’s just the right number of clouds in the sky.
+
+<br/>
 
 Seven and a half days (~75 hours of meditation) remain. I wasn’t able to read much about the experience beforehand, so I’m not sure what to expect. A point of reference could have been useful. Not having one feels like I don’t know how far or close I am to something, as if I’m walking along a path with my eyes closed.
 
@@ -51,7 +55,7 @@ When I asked the teacher earlier, he said something along, “Whatever you feel,
 
 In any case, a personal goal may have been nice, something to align my experience towards. But nothing particular is coming to mind either. I suppose that’s just how it is.
 
-*No need to overthink*.* Just feel.* True. At the end of the day, the retreat is a self exercise anyway. Everyone’s experience, by nature, will probably be a little different; there’s not much point in comparing or overwondering. No goals, no context, but perhaps in turn less biases and distractions. My experience is just my experience; I know what I know, and “whatever I feel, that is what I feel.”
+*No need to overthink*. *Just feel.* True. At the end of the day, the retreat is a self exercise anyway. Everyone’s experience, by nature, will probably be a little different; there’s not much point in comparing or overwondering. No goals, no context, but perhaps in turn less biases and distractions. My experience is just my experience; I know what I know, and “whatever I feel, that is what I feel.”
 
 I feel the patch of grass under my sweatpants, and a light brush of the shirt on my shoulders. The tree trunk holds sturdy against my back. If I pay attention, I can make out grooves on the bark. If I really pay attention, I can hear the Bhagavad Gita flowing through the universe. Out of nowhere, “Put Your Head On My Shoulder” by Paul Anka starts playing in my head, and it makes me want to dance. But I think that’s considered heavy exercise.
 
@@ -62,6 +66,8 @@ But no matter what angle I turn to, the rays still seem to find me. Sometimes th
 Eventually the gong sounds at 1PM, our cue to move back into the meditation hall.
 
 *Start again*, the teacher says, and we start again.
+
+<br/>
 
 Mid-meditation, I feel the post-lunch fatigue catching up to me. The teacher had warned against overeating earlier, but I may then have been stuck in Rabbit Hole 22. Ideally, eat at around 75% fullness, he’d said. You cannot focus if you eat too much.
 
@@ -83,6 +89,8 @@ Most of us spend some time walking around outside before going to bed. I find th
 
 Across the road, the fields seem to be laying back cross-legged, savouring the evening silence. The fields behind those fields too. And the fields behind those. Before I realize, the air has grown crisper. And in the horizon, pink has made its way into fuschia.
 
+<br/>
+
 A year ago, traveling around Japan in the summertime, I’d found a guesthouse to stay in the south of Kyushu (in Usa City, birthplace of Karaage) and made good friends with the owner. His name was Aki, and before opening up the guesthouse, he’d spent 2 years traveling around the world with his wife.
 
 The world travel was cool and stuff, he’d said, but most importantly, were the 3 moments in his travels that *changed *him. He added a special accent on *changed* that can’t really be expressed in just italics.
@@ -93,6 +101,8 @@ Aki’s Big 3:
 2. Total Solar Eclipse
 3. Vipassana
 What’s Vipassana, I asked. Meditation retreat, free, very cool, you should do it, he said.
+
+<br/>
 
 Ok, I was convinced. And a year later, I signed up for a 10 Day course in Alberta. Here I am.
 
@@ -110,7 +120,7 @@ And at these times, I feel a strong urge to exit the session. Open my eyes, stan
 
 *Let’s go, come on. It’s just a break*, the urge yells (or sometimes whispers). *Time away will help me better come back to the meditation*, it adds, hands raised as if holding dinner plates. True, I say. Very reasonable. My body seems to agree too; my eyelids start pulling apart, my buttcheeks try to lift off the floor.
 
-But my babysitter will shout at me from the background, albeit quite quiet for a shout. The words seem to come from far away, and only if I pay attention can I make out the full message. I*t’s a part of progress; just stay and sit, for a little longer.*
+But my babysitter will shout at me from the background, albeit quite quiet for a shout. The words seem to come from far away, and only if I pay attention can I make out the full message. *It’s a part of progress; just stay and sit, for a little longer.*
 
 The Urge shoots my babysitter a dirty glance, and Babysitter says what’s up. None of us are really getting along.
 
@@ -122,7 +132,9 @@ At noon, I visit the teacher again. He says to smile and welcome the challenge; 
 
 Always a little cliche, but I guess that’s the nature of this kind of thing. So I try. When the urges come, I try to observe, as I would a sensation on the body — *just feel*. Sometimes it doesn’t really help; they get stronger, like steam pushing against a glass lid, and no amount of observation seems to quell the heat and pressure. But sometimes if I observe for long enough, they get weaker too. And sometimes, they eventually weaken just enough, and disappear.
 
-![](/img/1*fhw0EEwbJ4b4FySZxhvGuw.jpeg)Like this, Day 4 eventually passes. Day 5 is better, but Day 6 is even worse. Day 7 is okay, and Day 8, Day 9, all come to an end.
+![](/img/1*fhw0EEwbJ4b4FySZxhvGuw.jpeg){: class="bigger-image" }
+
+Like this, Day 4 eventually passes. Day 5 is better, but Day 6 is even worse. Day 7 is okay, and Day 8, Day 9, all come to an end.
 
 When Day 10 ends, so do the rules of silence. Finally, all of us who have been meditating alone together, are now just together, together.
 
@@ -137,6 +149,8 @@ The centres in Europe were all waitlisted, Daniel explains. Alberta’s just hap
 Ok but why, someone asks.
 
 The Danes pause and look at each other. Sounded cool, Frederik says.
+
+<br/>
 
 After each grabbing a mug and taking turns filling our tea (sometimes filling each others’ tea, now that we are allowed to interact), we gather around a single table in the dining room. Ten days of silent eye-contactless meals passed by here, where plates and cutlery played as the sole audio track of this space. Sometimes the silence felt too silent. Sometimes it was okay. In any case, as the teacher put it, to go a little deeper, you need a bit of solitude and quiet.
 
@@ -232,6 +246,8 @@ You’re trying to see *everything*, I repeat to myself, once again. That’s a 
 
 At any rate, Aman is right — no need to think so much. At least for now, maybe it’s not necessary that everything is seen at once, but more that everything is observable. Nothing is hidden, and nothing is being ignored. I suppose in that way, the lens doesn’t give a warped view of reality. Every part of the dish is in the field of view. And over time, surely it will become a bit clearer, and “seeing everything” might get a bit easier.
 
+<br/>
+
 While we shared certain sentiments, Aman’s experience turned out to be quite different from mine. How he approached each session, how he felt from day to day. How he interpreted some of the lessons. In certain moments, I had to question whether or not we had really taken the same course.
 
 I guess that’s not totally unexpected. Everyone tastes things slightly differently, after all. In different sequences, with different nuances, and with different adjectives. Everyone’s experience is different, and our conclusions are our own.
@@ -250,4 +266,23 @@ Other students ask if I will continue to practice, now that the retreat has ende
 
 But even within these 10 days, I’ve definitely felt some kind of immediate change. A change I can’t yet tangibly see, but can tangibly feel, like the sunlight on my skin. It’s subtle, but very here.
 
-![](/img/1*E0dfIk3Wf-COtUPyVJeYWQ.jpeg)on the way to the retreat![](/img/1*FXXn4W7jssuwF5_g6JvLQw.jpeg)arrived (bad elbow playing basketball the day before)![](/img/1*Ol5Q9m5395VCg34s8VgATw.jpeg)10 days later![](/img/1*CHxbeRnkFV-6WlvUYhTVKg.png)lol![](/img/1*baf8_Q3LLSw3j3saXhoW9Q.jpeg)the ride home![](/img/1*cdfZp4RqYcNV30ssyJtpVg.jpeg)karaage shop in Usa![](/img/1*6pqoHJNxvrRwO8kRc_V1hw.jpeg)way back when  
+![](/img/1*E0dfIk3Wf-COtUPyVJeYWQ.jpeg){: class="bigger-image" }
+<figcaption class="caption">on the way to the retreat</figcaption>
+
+![](/img/1*FXXn4W7jssuwF5_g6JvLQw.jpeg){: class="bigger-image" }
+<figcaption class="caption">arrived (bad elbow playing basketball the day before)</figcaption>
+
+![](/img/1*Ol5Q9m5395VCg34s8VgATw.jpeg){: class="bigger-image" }
+<figcaption class="caption">10 days later</figcaption>
+
+![](/img/1*CHxbeRnkFV-6WlvUYhTVKg.png){: class="bigger-image" }
+<figcaption class="caption">lol</figcaption>
+
+![](/img/1*baf8_Q3LLSw3j3saXhoW9Q.jpeg){: class="bigger-image" }
+<figcaption class="caption">the ride home</figcaption>
+
+![](/img/1*cdfZp4RqYcNV30ssyJtpVg.jpeg){: class="bigger-image" }
+<figcaption class="caption">karaage shop in Usa</figcaption>
+
+![](/img/1*6pqoHJNxvrRwO8kRc_V1hw.jpeg){: class="bigger-image" }
+<figcaption class="caption">way back when</figcaption>

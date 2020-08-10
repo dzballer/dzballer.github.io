@@ -11,23 +11,32 @@ author: davidzhang
 description:
 ---
 
-  ![](/img/1*niPxL-wfYfkkoCVUYkFfbA.jpeg)7/7/2018 — Miyazu, Kyoto
+  ![](/img/1*niPxL-wfYfkkoCVUYkFfbA.jpeg){: class="bigger-image" }
+<figcaption class="caption">7/7/2018 — Miyazu, Kyoto</figcaption>
 
-It’s day 100 and it’s 1AM and my guesthouse owner is screaming something that I’m not yet awake enough to understand. Maybe I should wake up.
 
-The rain is still pretty loud. That sound has been ringing in my ears for the past 3 days; through my helmet, through my jacket, and now through the ceiling.
+
+It’s day 100 and it’s 1AM and my guesthouse owner is screaming something that I’m not yet awake enough to understand. Maybe I should wake up. The rain is still pretty loud. That sound has been ringing in my ears for the past 3 days; through my helmet, through my jacket, and now through the ceiling.
 
 I’ve ridden around 15000km since Tokyo, wrapping around Southwestern Japan (Kyushu & Okinawa), and am now heading North along the coast towards Hokkaido. A rider I met a few days ago was surprised my pace was so relaxed. I told him I had around 2 months to finish my trip. 15 prefectures left.
 
 “Are you going to make it in time?”
 
-“Of course.”
+“Of course,” I said.
 
-![](/img/1*vAkl9WNQYjOoGlppHBnI9A.jpeg)Day 99  
-7/6/2018, 23:31   
+![](/img/1*vAkl9WNQYjOoGlppHBnI9A.jpeg){: class="bigger-image" }
+<figcaption class="caption">Day 99</figcaption>
+
+
+>7/6/2018, 23:31   
 Hachi House Guesthouse, Miyazu-shi, Kyoto Prefecture  
 24°C, Heavy Rain  
-66.4kg 15200kmI’m exhausted. I haven’t realized how tired I’ve been this past week — it’s all kind of coming down now with the rain. Started at around 7:30AM today. Got better at noon. Then worse. It's very worse now.Two nights ago I dreamt of a flood that blocked off everything around me. It started raining real bad ever since. People are calling me "Ame otoko" (Rain boy).- journals vol 3Nobody really rides the rainy days — clothes, tent, and scenery all get soaked — but I usually move if I can. Unpleasant at first, bad weather isn’t so bad once you learn how to play along. If I had gas, I’d move. I’d wrap my boots in plastic bags. I’d find a roof or building to camp under. And I’d move again. The rain can be nice.
+66.4kg 15200km
+I’m exhausted. I haven’t realized how tired I’ve been this past week — it’s all kind of coming down now with the rain. Started at around 7:30AM today. Got better at noon. Then worse. It's very worse now. Two nights ago I dreamt of a flood that blocked off everything around me. It started raining real bad ever since. People are calling me "Ame otoko" (Rain boy).
+
+<figcaption class="caption">- journals</figcaption>
+
+Nobody really rides the rainy days — clothes, tent, and scenery all get soaked — but I usually move if I can. Unpleasant at first, bad weather isn’t so bad once you learn how to play along. If I had gas, I’d move. I’d wrap my boots in plastic bags. I’d find a roof or building to camp under. And I’d move again. The rain can be nice.
 
 But not today. Riding in rain can be not so safe, and today was more not so safe than usual. It’s the third day of consecutive downpour, and exhaustion makes bad weather worse.
 
@@ -43,13 +52,18 @@ I looked for words to form a question, but didn’t need to. Nana said something
 
 “It’s flooding.”
 
-![](/img/1*L9b6iPff4ck3gHOA75_lIA.jpeg)![](/img/1*R8KNdkomr9VV4me7tMuY3w.gif)It looked pretty bad. It *sounded* pretty bad. Like showering with earplugs in. The street had become a river; a pretty fast one. I imagined brown water rafting.
+![](/img/1*L9b6iPff4ck3gHOA75_lIA.jpeg){: class="bigger-image" }
+
+![](/img/1*R8KNdkomr9VV4me7tMuY3w.gif)
+
+It looked pretty bad. It *sounded* pretty bad. Like showering with earplugs in. The street had become a river; a pretty fast one. I imagined brown water rafting.
 
 Gas tanks were knocked down, car wheels flooded, and random garbage was washing away. The old Japanese style houses looked like they would crumble against the current. Under the streetlights, the pouring rain seemed like it would wash even the light away too.
 
 I’d parked my bike inside the entrance of the house. Good. But the entrance of the house had no door. Double good. Water was climbing up the tires and random sandals were nonchalantly floating around. One of those was mine.
 
-![](/img/1*OE0L031zXOlfgziXI3yMxw.jpeg)I’ve watched enough Youtube videos to know how this works. People stranded on building tops, cars and houses washing away — I looked back to my bike. Maybe this would be the last time I’d ever see it. Or it’d ever see me, for that matter.
+![](/img/1*OE0L031zXOlfgziXI3yMxw.jpeg){: class="bigger-image" }
+I’ve watched enough Youtube videos to know how this works. People stranded on building tops, cars and houses washing away — I looked back to my bike. Maybe this would be the last time I’d ever see it. Or it’d ever see me, for that matter.
 
 We’d have to find a way to the roof. We’d need helicopters to come and save us.
 
@@ -63,7 +77,10 @@ With a fat board of wood and some bricks, we barricaded the front entrance and s
 
 “Wait, I guess.”
 
-![](/img/1*rtIpWBXALRaWra-HzRL_9A.jpeg)luggage & drying tentWe sat near the front, en garde for the worst. But luckily it didn’t come. At least not yet.
+![](/img/1*rtIpWBXALRaWra-HzRL_9A.jpeg){: class="bigger-image" }
+<figcaption class="caption">luggage & drying tent</figcaption>
+
+We sat near the front, en garde for the worst. But luckily it didn’t come. At least not yet.
 
 Nana called a bunch of people and looked for information on Twitter. She’d stick her head out the window and yell updates with the neighbour over the rain. I posted my could-be last moments on Instagram and sent my parents a picture. Dad replied, “You’re still not asleep yet??”
 
@@ -85,7 +102,19 @@ Day 100
 
 The rain had stopped for now, but had already done its damage. Flooding, landslides, sinkholes — the entire Kansai region had been hit. Road closures were everywhere. Looking at the worst-of-it on the news and Twitter, we were actually the lucky ones.
 
-![](/img/1*FNfrkZqGUmhLaqITbVWqlA.jpeg)our street![](/img/1*PDdJXhJm8ynmIb8Ir8rddw.jpeg)worst of it (kyoto?)![](/img/1*Chj2W0h6DCXtTEutzYtkHw.jpeg)worst of worst of it (somewhere in Okayama)![](/img/1*7NEkIWMYXOa3ixkxbvw0iA.jpeg)Facebook pic from a friend I met a month agoBut nothing was open. Grocery stores closed, convenience stores cleaned out, nowhere to go and nothing we could really do—I didn’t know what to make of the situation.
+![](/img/1*FNfrkZqGUmhLaqITbVWqlA.jpeg){: class="bigger-image" }
+<figcaption class="caption">our street</figcaption>
+
+![](/img/1*PDdJXhJm8ynmIb8Ir8rddw.jpeg){: class="bigger-image" }
+<figcaption class="caption">worst of it (kyoto?)</figcaption>
+
+![](/img/1*Chj2W0h6DCXtTEutzYtkHw.jpeg){: class="bigger-image" }
+<figcaption class="caption">worst of worst of it (somewhere in Okayama)</figcaption>
+
+![](/img/1*7NEkIWMYXOa3ixkxbvw0iA.jpeg){: class="bigger-image" }
+<figcaption class="caption">Facebook pic from a friend I met a month ago</figcaption>
+
+But nothing was open. Grocery stores closed, convenience stores cleaned out, nowhere to go and nothing we could really do—I didn’t know what to make of the situation.
 
 Even if my bike was okay, I couldn’t move if I wanted to; everything was blocked off. I felt anxious. It wasn’t the waiting that bothered me; it was the helplessness.
 
@@ -105,7 +134,10 @@ Progress was slow at first, but a backhoe truck came in quickly to finish the wo
 
 A wall of mud now lined across the street. The canal was still blocked, but water was no longer flowing into the neighbourhood. The street had finally come back to a street. Kind of.
 
-![](/img/1*NeUTaefrnH8sjoxHWJsgIQ.jpeg)kind ofDay 101  
+![](/img/1*NeUTaefrnH8sjoxHWJsgIQ.jpeg){: class="bigger-image" }
+<figcaption class="caption">kind of</figcaption>
+
+Day 101  
 7.8.2018, 22:27  
 29°C, Clear Exhausted. And super full. Woke up at 9:30 and went to join the work team. Kubi (?) and Chabin were already here. I still don't know everyone's names.I think I ate too much.- journals vol 37/8/2018
 
@@ -115,7 +147,11 @@ The draining water had revealed a blanket of brown — not a single speck of gro
 
 One of the houses had mud so deep in that it was literally unreachable; they’d have to call a guy to take apart the entire flooring. Until then, whatever was lying in those depths would bake in the summer heat. It was 33°C. I imagined the smell, and then stopped imagining the smell.
 
-![](/img/1*AGYiy6L_QHoBEsmZ_JIK4g.jpeg)![](/img/1*fnHiePyDZJlOzXxyeOSWEA.jpeg)The next few days were spent on cleanup and recovery. Everybody in the community came together and helped in whatever way they could. Some would shovel, some would make food, some would bring drinks, and everybody would play their part.
+![](/img/1*AGYiy6L_QHoBEsmZ_JIK4g.jpeg){: class="bigger-image" }
+
+![](/img/1*fnHiePyDZJlOzXxyeOSWEA.jpeg){: class="bigger-image" }
+
+The next few days were spent on cleanup and recovery. Everybody in the community came together and helped in whatever way they could. Some would shovel, some would make food, some would bring drinks, and everybody would play their part.
 
 Old men handed out ice cream, little kids scooped mud from gutters, and slowly but surely, the neighbourhood began looking like a neighbourhood again.
 
@@ -137,7 +173,7 @@ Breaks were filled with sweat wiping and funny conversation. The neighbour’s 1
 
 “That’s right.”
 
-His amazement (or confusion) gave everybody a good laugh. Saho quickly convinced himself that he would come to Canada too. But he’d need to learn English for that, I told him. His face suddenly flashed with a lot of pain, but murmured that he’d try his best.
+His amazement (or confusion) gave everybody a good laugh. Saho quickly convinced himself that he would come to Canada too. But he’d need to learn English for that, I told him. A wave of pain flashed across his face, but murmured that he’d try his best.
 
 We laughed again.
 
@@ -145,17 +181,25 @@ At first, I shovelled head down like a monkey, trying to compensate for not doin
 
 I looked to the father loosening mud so that his son could shovel too, even though the father would have been faster by himself. The big machines would be coming again to wipe the floor, yet we were still doing all that we could with shovels and buckets. It wasn’t just about getting the job done. It was about community.
 
-![](/img/1*Gxw_Wj_pmiu6uJsS3fmuOA.jpeg)![](/img/1*0RZzApZt1fIvveAVGdHHhw.jpeg)The end of each work day was marked by cheers and see-you-tomorrow’s. Red skies dyed the clouds, and Nana’s crew and I would head somewhere drink to celebrate a job well done.
+![](/img/1*Gxw_Wj_pmiu6uJsS3fmuOA.jpeg){: class="bigger-image" }
+
+![](/img/1*0RZzApZt1fIvveAVGdHHhw.jpeg){: class="bigger-image" }
+
+The end of each work day was marked by cheers and see-you-tomorrow’s. Red skies dyed the clouds, and Nana’s crew and I would head somewhere drink to celebrate a job well done.
 
 Kubi and Chabin, two good friends who met on an online game and had moved here to start a motorcycle business; Saho, the 12 year old boy whose manliness and frankness completely surprised me, and who I later learned was actually a girl; Nagomi, the Izakaya across the street that we went to every night — by the end, the initial alienness I struggled with had become a warmth; this neighbourhood had become my neighbourhood too.
 
-![](/img/1*QkJqBJl0Zrrw8KVn_9GqkQ.jpeg)7/9/2018
+![](/img/1*QkJqBJl0Zrrw8KVn_9GqkQ.jpeg){: class="bigger-image" }
+<figcaption class="caption">7/9/2018</figcaption>
+
 
 It’s a little past noon and we’re done cleaning the streets and I’m sitting in the garage trying to clean my helmet. It was soaked in the rain and now smells like soggy butt. Nana tells me to spray some Febreeze on it, but to be honest I don’t know which smell I’d prefer.
 
 The roof is protecting us from the sun, but the heat is unescapable. I don’t know if this afternoon lethargy is because I’m melting or because I had too much udon for lunch. But I’m relaxed — it feels nice to just sit around. The streets are looking good.
 
-![](/img/1*1xuOiMaLZZBVaFLuxPmZbw.jpeg)Kubi asks me if I know of Amanohashidate and I ask him if it tastes better than the udon. He laughs because my joke is funny, or maybe he thinks I’m stupid.
+![](/img/1*1xuOiMaLZZBVaFLuxPmZbw.jpeg){: class="bigger-image" }
+
+Kubi asks me if I know of Amanohashidate and I ask him if it tastes better than the udon. He laughs because my joke is funny, or maybe he thinks I’m stupid.
 
 “Amanohashidate” (Heaven’s Bridge) is one of the “Three Views of Japan”, and why most people come to Miyazu city at all. I’d never been.
 
@@ -173,7 +217,12 @@ Since the rainy season started mid-June, it was rare to have a picture perfect d
 
 “Look! Big, fat — soft cream!”
 
-![](/img/1*vRGrNsn6YBs9JldxDctN9w.jpeg)![](/img/1*iyFKVOhkXUDBbpuHI8DViQ.jpeg)1 day later — Amanohashidate from drone view (floods on left, sea of Japan on right)7/9/2018
+![](/img/1*vRGrNsn6YBs9JldxDctN9w.jpeg){: class="bigger-image" }
+
+![](/img/1*iyFKVOhkXUDBbpuHI8DViQ.jpeg){: class="bigger-image" }
+<figcaption class="caption">1 day later — Amanohashidate from drone view (floods on left, sea of Japan on right) 7/9/2018</figcaption>
+
+
 
 It’s already 11PM and we just got back from the Izakaya. Tonight’s the 4th night since I arrived. I can’t remember the last time I’d stopped for so long, but I don’t mind it.
 
@@ -185,13 +234,18 @@ But even so, I had a goal — I’m biking around Japan, I reminded myself. It�
 
 The best time to leave is when you want to stay just a little longer. And right now, I want to stay just a little longer.
 
-![](/img/1*ebZXR63ZxQr6C3hThxw5Og.jpeg)7/10/2018
+![](/img/1*ebZXR63ZxQr6C3hThxw5Og.jpeg){: class="bigger-image" }
+<figcaption class="caption">7/10/2018</figcaption>
+
+
 
 Before I left, all the people that I’d met came to say goodbye. Nana’s friend brought me a small Japanese charm to take with me. “Stay safe. Don’t ride in rain too much.”
 
 I wrapped it in a sheet of tissue and slid it into my tankbag.
 
-![](/img/1*P-RnfU0fGMjpgQJ2TLzFqQ.jpeg)It’d only been a few days, but I’d missed this feeling of being on the bike. Jacket, helmet, gloves — putting on gear felt like coming back home after a long day away.
+![](/img/1*P-RnfU0fGMjpgQJ2TLzFqQ.jpeg){: class="bigger-image" }
+
+It’d only been a few days, but I’d missed this feeling of being on the bike. Jacket, helmet, gloves — putting on gear felt like coming back home after a long day away.
 
 I was ready. My bike was too. I’d been worried this entire time if it was okay, but luckily Nana’s family ran a bike shop. We only needed some minor fixes — couldn’t help but smile when I heard the engine start.
 
@@ -205,6 +259,9 @@ But right now I was only looking towards the next stop. Visor up, jacket unzippe
 
 I was soaring across the sky. The clouds seemed to be whiter than usual. Big, fat, soft cream.
 
-![](/img/1*M0g_xWsEAqEUjMTejEpa2w.jpeg)next stopMore later maybe
+![](/img/1*M0g_xWsEAqEUjMTejEpa2w.jpeg){: class="bigger-image" }
+<figcaption class="caption">next stop</figcaption>
 
-![](/img/1*tQCfoPzXyLpiPhPPuuKlsQ.jpeg)  
+More later maybe
+
+![](/img/1*tQCfoPzXyLpiPhPPuuKlsQ.jpeg){: class="bigger-image" }

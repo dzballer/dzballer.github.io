@@ -9,6 +9,7 @@ star: false
 category: blog
 author: davidzhang
 description:
+published: false
 ---
 
   Every year the Alberta Chess Association holds a “Battle of Alberta” tournament where the top 12 players of the North face off in a two-game match against the corresponding top 12 players of the South. Whichever team ends up with the higher cumulative score has their names engraved on a big trophy and gets a bag of bragging rights.

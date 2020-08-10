@@ -7,7 +7,8 @@ headerImage: false
 tag:
 category: blog
 author: davidzhang
-description: 
+description:
 ---
 
-  ![](/img/1*mRW_aXfRkpBlb9A3P8cCzg.png)Ok great
+  ![](/img/1*mRW_aXfRkpBlb9A3P8cCzg.png){: class="bigger-image" }
+<figcaption class="caption">Ok great</figcaption>

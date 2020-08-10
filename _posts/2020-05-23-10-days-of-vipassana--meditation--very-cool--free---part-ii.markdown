@@ -5,13 +5,15 @@ date:	2020-05-23
 image:
 headerImage: false
 tag:
-star: true
+star: false
 category: blog
 author: davidzhang
 description:
 ---
 
-  ![](/img/1*-1WAiIy8WX-d0qELzO2uNA.jpeg)Today is Day 33, August 23rd, 2019. The retreat is long since finished, but a key takeaway is the importance of continuity. Even post-retreat, maintaining practice is like maintaining a muscle. Train and utilize, or atrophy. Train in proper meditation sessions, and utilize in the day-to-day. Walking to work, listening to music, sleeping — continuity of awareness is key.
+  ![](/img/1*-1WAiIy8WX-d0qELzO2uNA.jpeg){: class="bigger-image" }
+
+  Today is Day 33, August 23rd, 2019. The retreat is long since finished, but a key takeaway is the importance of continuity. Even post-retreat, maintaining practice is like maintaining a muscle. Train and utilize, or atrophy. Train in proper meditation sessions, and utilize in the day-to-day. Walking to work, listening to music, sleeping — continuity of awareness is key.
 
 I’m writing from the balcony of an AirBnB in the Western coast of Sicily. The clock shows 11:41PM and the moon is three quarters bright with a strange red hue. It’s sitting just centimetres above the ocean. Maybe not centimetres, I don’t know. I’ve had a few glasses of wine and should probably head to sleep soon. Dinner was Ravioli di Provolone al Ragu (AKA cheese dumplings — made by yours truly), paired with pink clouds in the sky and “Ruthless” by The Marías.
 
@@ -33,7 +35,9 @@ Sometimes I just catch myself noticing things more. A dim spherical lantern in t
 
 Maybe muscle doesn’t atrophy as quickly as I think. Or maybe it’s just the Sicily effect. “I Like It” by DeBarge is playing on my bluetooth speaker.
 
-![](/img/1*iCwXzT_g4OD0ww_Ii4wiEA.jpeg)palermoThe moon has gotten a few inches higher since a few minutes ago. It’s still as red as before, and now there’s a long red shadow reflecting off the ocean, like an ellipses trailing from the horizon. It’s weird to see the moon in this colour. I try to take a picture with my phone, but it doesn’t really get anything, except for a blurry red dot in the distance.
+![](/img/1*iCwXzT_g4OD0ww_Ii4wiEA.jpeg){: class="bigger-image" }
+<figcaption class="caption">palermo</figcaption>
+The moon has gotten a few inches higher since a few minutes ago. It’s still as red as before, and now there’s a long red shadow reflecting off the ocean, like an ellipses trailing from the horizon. It’s weird to see the moon in this colour. I try to take a picture with my phone, but it doesn’t really get anything, except for a blurry red dot in the distance.
 
 In the 2 weeks that I’ve been traveling around Italy, I haven’t gone by any particular schedule or intent. In the mornings, I wake up, grab a light breakfast and espresso, and head to the supermarket. I find the deli, take a number, and wait for the Italian guy to call on me. I don’t actually know all the numbers in Italian yet, but when my turn comes, I manage to figure it out (someone tells me).
 
@@ -47,7 +51,9 @@ The people are friendly here in the countryside (much more than compared to big 
 
 Every 3 or 4 days, I look for a different city, and book another 3 or 4 day stay. I jam my stuff in my small backpack and duffel, and ride the train to my next stop.
 
-![](/img/1*wLzySU0A9i4mdI9o7JVR0A.jpeg)in the tuscan countrysideThis sounds all fine, I know. I’m free and relaxed and am bouncing my way across the Italian boot, one day in San Gimignano, one day in Fontanella, prosciutto and espresso every morning, pasta every night. There is nothing to complain about, no real problems to worry about. Certainly a very privileged, luxurious way to be living.
+![](/img/1*wLzySU0A9i4mdI9o7JVR0A.jpeg){: class="bigger-image" }
+<figcaption class="caption">in the tuscan countryside</figcaption>
+This sounds all fine, I know. I’m free and relaxed and am bouncing my way across the Italian boot, one day in San Gimignano, one day in Fontanella, prosciutto and espresso every morning, pasta every night. There is nothing to complain about, no real problems to worry about. Certainly a very privileged, luxurious way to be living.
 
 Yet sometimes, in some kind of incomprehensible fashion, I will get a strange feeling that something isn’t right. Like an invisible itch somewhere below my skin.
 
@@ -59,7 +65,9 @@ Sometimes I’ll try to rationalize this feeling. Be logical and objective, and 
 
 When I can properly bring these thoughts to a close, I’ll turn around and realize, the old lady’s gone. Thank goodness, I say to myself. That was really weird and uncomfortable. The rest of the walk feels nice and light, as if I’ve taken a jam-packed backpack off my shoulders, and set it freely on the side of the road.
 
-![](/img/1*EY37ROcnvI3ICaCB-XmTqA.jpeg)somewhere in tuscanyBut the next day, she’s there again, in the middle of the street looking right at me. Why? I’ve already taken care of your business, so what do you want this time? Seeing her for the second time almost makes me angry. In fact, I hate that empty neutral look of hers. If you’re going to do this, surely you can give me something to work with. Something like a sign or hint. Even a smile or frown would do, just not this strange gaze that I can’t even properly describe, let alone interpret, boring holes through my chest. Can’t you be a little less abstract?
+![](/img/1*EY37ROcnvI3ICaCB-XmTqA.jpeg){: class="bigger-image" }
+<figcaption class="caption">somewhere in tuscany</figcaption>
+But the next day, she’s there again, in the middle of the street looking right at me. Why? I’ve already taken care of your business, so what do you want this time? Seeing her for the second time almost makes me angry. In fact, I hate that empty neutral look of hers. If you’re going to do this, surely you can give me something to work with. Something like a sign or hint. Even a smile or frown would do, just not this strange gaze that I can’t even properly describe, let alone interpret, boring holes through my chest. Can’t you be a little less abstract?
 
 There’s never any response. I just continue walking, and she continues following. Her stare weighing heavier every step of the way.
 
@@ -75,7 +83,9 @@ Sometimes I’ll get really close, and stare straight into her eyes, trying to f
 
 As always, she just continues to look in my direction, with the same discomforting, expressionless expression.
 
-![](/img/1*-VtrqKx02g0KFqVKxBwwmg.jpeg)somewhere in tuscanyAfter a while, I get up from the bench, stretch my arms in the air, and walk back towards my AirBnB. The old lady gets up without a word and silently follows my pace.
+![](/img/1*-VtrqKx02g0KFqVKxBwwmg.jpeg){: class="bigger-image" }
+<figcaption class="caption">somewhere in tuscany</figcaption>
+After a while, I get up from the bench, stretch my arms in the air, and walk back towards my AirBnB. The old lady gets up without a word and silently follows my pace.
 
 Weirdly enough, though, having sat down with her, I don’t mind her presence as much. Maybe it feels like I’ve gotten to know her a little bit better. More than I did before at least. Don’t get me wrong, this arrangement is still a little uncomfortable, but she’s not as strange and threatening as she felt before. I mean, how could she be — after a good proper look, she’s just an average old lady (if not the most average old lady in the world).
 
@@ -85,7 +95,9 @@ At a certain point, I notice her footsteps getting quieter and quieter. Are we w
 
 What a strange old lady, I think to myself, and head back to my AirBnB to do some afternoon work.
 
-![](/img/1*ZImctzVWH-G9QVDW1sOGYA.jpeg)florenceThe waves in the distance have gotten louder than before. A few empty plates sit on the table, left with streaks of sauce from dinner. The bottle of wine is still quarter full, but I think I’ll just have some water before I head to sleep.
+![](/img/1*ZImctzVWH-G9QVDW1sOGYA.jpeg){: class="bigger-image" }
+<figcaption class="caption">florence</figcaption>
+The waves in the distance have gotten louder than before. A few empty plates sit on the table, left with streaks of sauce from dinner. The bottle of wine is still quarter full, but I think I’ll just have some water before I head to sleep.
 
 Aside the physical senses, recently I’ve began to notice other things too. I don’t mean to brag, but in the middle of thinking a certain thought, or feeling a certain way, a light realization often comes to me: I am indeed thinking, or feeling, that way.
 
@@ -95,7 +107,9 @@ And watching in this way, those thoughts or feelings seem a little different, as
 
 Reactions in certain situations, or changes in emotions — sometimes they feel similar. Separate, and just there. And in some sense, not so different from the physical sensations on the skin either. Little shapes scattered around the dish. Different in size, colour, and movement, but shapes nonetheless.
 
-![](/img/1*x8woT-9kyr59QgJkQvmP9g.jpeg)serra di rapolanoStare long enough, I often find a piece of white gunk on the dish, rubbery and translucent. It’s hard to tell, especially when looking from the inside. The gunk is glued on so tight, and sometimes so deceptively. As if it were part of another shape; an edge, or a corner. It may have even seemed like a shape itself.
+![](/img/1*x8woT-9kyr59QgJkQvmP9g.jpeg){: class="bigger-image" }
+<figcaption class="caption">serra di rapolano</figcaption>
+Stare long enough, I often find a piece of white gunk on the dish, rubbery and translucent. It’s hard to tell, especially when looking from the inside. The gunk is glued on so tight, and sometimes so deceptively. As if it were part of another shape; an edge, or a corner. It may have even seemed like a shape itself.
 
 But from this zoomed-out angle, it’s easier to make out the borders of different shapes, thoughts and feelings. With a proper look, the gunk turns out to be just a piece of fat. Why would someone put this here? As if alive, it squirms around, in no particular kind of pattern. Perhaps it just feels uncomfortable being watched. I can understand; after all, being watched is never a pleasant feeling. Sometimes it feels like whoever is watching you is trying to strip you down, to see what you look like, and what you really look like.
 
@@ -111,7 +125,9 @@ And if I look long enough, sometimes it becomes easier to make out subtler detai
 
 Perhaps meditation has helped me in this way: I have begun to see my own fat better.
 
-![](/img/1*mu3fL8n7DVywIR5ieBnzzA.jpeg)serra di rapolanoBeyond all the metaphors used to understand it, Vipassana is perhaps, some kind of metaphor in itself. Not to illustrate a scene, or explain a concept, but one of direct experience. Experiencing it, in turn experiencing whatever it refers to.
+![](/img/1*mu3fL8n7DVywIR5ieBnzzA.jpeg){: class="bigger-image" }
+<figcaption class="caption">serra di rapolano</figcaption>
+Beyond all the metaphors used to understand it, Vipassana is perhaps, some kind of metaphor in itself. Not to illustrate a scene, or explain a concept, but one of direct experience. Experiencing it, in turn experiencing whatever it refers to.
 
 Where any thing, physical or nonphysical, can be directly experienced as if a sensation on the skin — tangibly, on a petri dish, in front of the microscope — j*ust feel*. Sharpened and subtle enough, the awareness cuts through the deepest layers of fat. Until every edge of sensation trimmed to its bare form, can be felt easily, and more importantly, in absolute totality.
 
@@ -121,7 +137,9 @@ Of course, there are always epistemological potholes everywhere, and any discour
 
 And sometimes that type of fat is the hardest to get rid of, the type that pretends to be muscle. It clouds vision, weighs heavy, and creates a false sense of strength. It’s interesting and fun, and sometimes very useful to intellectualize; but actually driving on the road, even if just a little bit, is an entirely different game.
 
-![](/img/1*Pzkg3-j6hjFyp6KJ6NGy2A.jpeg)trapaniSo I guess, there’s not much to think about. It’s not a thinking game after all. Rather, just an act of practice, the same as riding a bicycle, or learning to drive — something you can directly feel and operate. Building muscle memory, strength, discipline, focus, balance, and equanimity. Sharpening a craft.
+![](/img/1*Pzkg3-j6hjFyp6KJ6NGy2A.jpeg){: class="bigger-image" }
+<figcaption class="caption">trapani</figcaption>
+So I guess, there’s not much to think about. It’s not a thinking game after all. Rather, just an act of practice, the same as riding a bicycle, or learning to drive — something you can directly feel and operate. Building muscle memory, strength, discipline, focus, balance, and equanimity. Sharpening a craft.
 
 The moon has just passed its apex in the sky, and according to my computer’s clock, it is now technically Day 34. The sound of waves fades in from the distance. Location Unknown by HONNE is playing from my laptop speakers.
 
@@ -148,6 +166,8 @@ To be honest, I don’t know if I’ll ever truly be able to cut all of it. True
 Or is some fat actually okay? If that’s the case, it would be nice if someone could tell me how much is extra, and how much is needed. Some kind of point of reference. But, perhaps that’s a subjective thing too. Finding the boundary between good and bad fats is a personal decision. Cutting bad fats requires discipline, and choosing good fats requires style. At any rate, how do you find that balance, in the pursuit of truth?
 
 In these moments, I often think about my teacher from the retreat, and the quaint afternoons on the patch of grass under the tree. I can already hear in my head, what kind of answer he’d tell me.
+
+---
 
 On the night of Day 5, I had an intense dream. Perhaps intense isn’t the right word; looking back, the contents may seem that way, but the dream itself felt gentle, as if it were cruising across a conveyor walkway at the airport.
 

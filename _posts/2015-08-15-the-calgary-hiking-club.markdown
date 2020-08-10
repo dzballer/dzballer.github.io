@@ -2,6 +2,13 @@
 layout:	post
 title:	"The Calgary Hiking Club"
 date:	2015-08-15
+image:
+headerImage: false
+tag:
+star: false
+category: blog
+author: davidzhang
+description:
 ---
 
   The weather forecast was terrible. Well the forecasting was great but the actual weather — not so much. Thunderstorms in Banff.

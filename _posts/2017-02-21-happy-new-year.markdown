@@ -13,7 +13,9 @@ description:
 
   Right on time.
 
-![](/img/1*jvhVDVstr2h09_d9mBx6fA.jpeg)I have a bunch of drafts sitting around. I haven’t finished them.
+![](/img/1*jvhVDVstr2h09_d9mBx6fA.jpeg){: class="bigger-image" }
+
+I have a bunch of drafts sitting around. I haven’t finished them.
 
 I have a list of other topics I’ve been wanting to write about. I haven’t started them.
 
@@ -33,13 +35,15 @@ Last year, sometime around December, I remember sitting on the track of the loca
 
 I sat there for a few minutes.
 
-![](/img/1*327XJvC3JheWLr0mCGDY4Q.jpeg)I breathed. There was something different about the air. I took a piece of Chengdu with me that day.
+![](/img/1*327XJvC3JheWLr0mCGDY4Q.jpeg){: class="bigger-image" }
+
+I breathed. There was something different about the air. I took a piece of Chengdu with me that day.
 
 I’m trying to do that right now. I’d like to take a piece of everyday, everyday.
 
 When I’m in the city for too long, my awareness gets diluted amongst noise and the skyscrapers. It’s easy to get caught up in the busyness of the environment — it washes you away in its current. And the city likes to move fast; sometimes you can’t help but be pulled along. When that happens, it’s time to revisit, and breathe again.
 
-I’ve realized that the reason why I feel so different (sometimes a very profound high) when I hike or travel is that I’m kind of meditating. My awareness is directed outward and I’m attentive. It’s like I’m eating with my senses than just with my mouth, breathing with my body and not just my lungs.
+I’ve realized that the reason why I feel so different (sometimes a high of sorts) when I hike or travel is that it feels like I'm meditating. My awareness is directed outward and I’m attentive. As if I’m eating with my senses than just with my mouth, breathing with my body and not just my lungs.
 
 And while the past year has been a little chaotic, I’ve been able to find a bit of order within that chaos. I’ve always said that the best way to find balance is to find the extremes, and experiencing this dichotomy has given me a chance to understand some best practices for enjoying life.
 

@@ -11,7 +11,9 @@ author: davidzhang
 description:
 ---
 
-  ![](/img/1*sgRSn7E1vbihGI9rohfoGg.jpeg)It’s 1 PM and I’m still in bed.
+  ![](/img/1*sgRSn7E1vbihGI9rohfoGg.jpeg){: class="bigger-image" }
+
+  It’s 1 PM and I’m still in bed.
 
 I woke up 4 hours ago but I’m still here lying in my underwear, watching YouTube videos and lurking around on /r/nba before the finals tomorrow.
 
@@ -19,7 +21,7 @@ I haven’t done this in a while.
 
 Does it feel good? I think the expected answer should be a big fat *yes,* but when your mind has been running in a rhythm of urgency, it almost feels a bit anxious that you’re not actually doing anything.
 
-Yes, yes. I get it. Relaxation is part of life. Doing nothing *is *a part of doing something. Every summit has two parts — the climb up, and the climb down.
+Yes, yes. I get it. Relaxation is part of life. Doing nothing is a part of doing something. Every summit has two parts — the climb up, and the climb down.
 
 But I didn’t choose this climb down.
 
@@ -30,6 +32,8 @@ Even my knuckle is sprained — and I don’t even know why!
 But actually I do.
 
 I do know why.
+
+---
 
 Ever since I went fire mode last summer, I’ve been pushing myself to constantly sprint forward. I realized how much time I’d wasted in the last few years and how hard I needed to work to compensate.
 
@@ -59,7 +63,7 @@ But as this stage of your life passes, the likelihood of accomplishing many of t
 
 It’s similar to the concept of satiating cravings. Those yam fries might taste great because you want them today, but tomorrow, they won’t taste the same. Certain things only hold certain emotion, experience, and meaning, if you do them in certain times.
 
-And realizing this, I was always under the mentality of having to do **everything** and everything **now. **If I wanted to do something, I would try everything in and out of my own power to get it done, when I want it done.
+And realizing this, I was always under the mentality of having to do **everything** and everything **now.** If I wanted to do something, I would try everything in and out of my own power to get it done, when I want it done.
 
 You might be reading it and thinking, *oh, that sounds really driven! I respect the get-shit-done hustle!*
 

@@ -29,7 +29,7 @@ When I just started my summer job, many of the logistics had yet been sorted out
 
 Ironically, I read up a lot on workplace productivity and how you should improve focus by *impulse doing*. If you have a task that comes up, then *just do it*. It makes a lot of sense since you don’t give time for the dilatory worrying to catch up to you. If you want to get things done, this is the way to get things done.
 
-I’d begin to notice that whenever I heard about someone’s goals, there would always be some kind of secondary obstacle they could not get over. I would see these posts, mentally throw my hands and shout, *Who Cares??? *Yes, with **three **question marks.
+I’d begin to notice that whenever I heard about someone’s goals, there would always be some kind of secondary obstacle they could not get over. I would see these posts, mentally throw my hands and shout, *Who Cares???* Yes, with **three** question marks.
 
 Slowly but surely, my personal philosophy began to contour.
 
