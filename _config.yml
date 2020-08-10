@@ -38,19 +38,19 @@ permalink: /:title/
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/dz123/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://dzballer.github.io/
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: https://medium.com/@hehehdz
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: dav.zhang@mail.utoronto.ca
 
 authors:
   johndoe:
