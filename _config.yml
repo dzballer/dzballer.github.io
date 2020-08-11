@@ -18,6 +18,7 @@ picture: assets/images/headshot_biking.jpg
 
 # url: https://sergiokopplin.github.io/indigo
 url: https://dzballer.github.io
+baseurl: / # need this to render the right css file; see https://stackoverflow.com/questions/33634520/jekyll-on-github-pages-not-rendering-css
 
 permalink: /:title/
 
