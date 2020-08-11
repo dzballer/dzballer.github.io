@@ -8,10 +8,10 @@ pictures:
   original: P4080685-4608x3456.jpg
   sizes: []
   thumbnail: P4080685-thumbnail.jpg
-- filename: IMG_4538
-  original: IMG_4538-1568x1044.jpg
-  sizes: []
-  thumbnail: IMG_4538-thumbnail.jpg
+# - filename: IMG_4538
+#   original: IMG_4538-1568x1044.jpg
+#   sizes: []
+#   thumbnail: IMG_4538-thumbnail.jpg
 - filename: P3310992
   original: P3310992-4608x3456.jpg
   sizes: []
@@ -44,10 +44,10 @@ pictures:
   original: P4050490-4608x3456.jpg
   sizes: []
   thumbnail: P4050490-thumbnail.jpg
-- filename: IMG_4530
-  original: IMG_4530-1568x1044.jpg
-  sizes: []
-  thumbnail: IMG_4530-thumbnail.jpg
+# - filename: IMG_4530
+#   original: IMG_4530-1568x1044.jpg
+#   sizes: []
+#   thumbnail: IMG_4530-thumbnail.jpg
 - filename: P4020160
   original: P4020160-4608x3456.jpg
   sizes: []
