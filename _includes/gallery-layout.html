@@ -20,16 +20,18 @@ $(document).ready(function() {
 });
 
 // init isotope
-var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} = $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
+var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} = $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').masonry({
   percentPosition: true,
   columnWidth: '#gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}',
   itemSelector: '.image-wrapper',
-  layoutMode: "masonry"
+  // layoutMode: "masonry"
+  // layoutMode: "packery"
 });
 
 // layout Isotope after each image loads
 $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress( function() {
   $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.masonry();
 });
+
 
 </script>

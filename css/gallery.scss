@@ -26,7 +26,7 @@ html {
   .image-wrapper {
     float: left;
     padding: 0px 1px;
-
+    transition: background 0.4s, box-shadow 0.4s;
     // hack required if no padding
     .image {
       width: 100.1%;
