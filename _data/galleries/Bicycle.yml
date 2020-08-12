@@ -1,45 +1,105 @@
 picture_path: Bicycle
 pictures:
-- filename: DSCF3659
-  original: DSCF3659-6000x4000.jpg
+- filename: DJI_0742
+  original: DJI_0742-4048x3032.jpg
   sizes: []
-  thumbnail: DSCF3659-thumbnail.jpg
-- filename: DSCF9412
-  original: DSCF9412-6000x4000.jpg
+  thumbnail: DJI_0742-thumbnail.jpg
+- filename: DJI_0769
+  original: DJI_0769-4048x3032.jpg
   sizes: []
-  thumbnail: DSCF9412-thumbnail.jpg
-- filename: DSCF3289
-  original: DSCF3289-6000x4000.jpg
+  thumbnail: DJI_0769-thumbnail.jpg
+- filename: DSCF1038
+  original: DSCF1038-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF3289-thumbnail.jpg
-- filename: DSCF3504
-  original: DSCF3504-6000x4000.jpg
+  thumbnail: DSCF1038-thumbnail.jpg
+- filename: DSCF3035
+  original: DSCF3035-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF3504-thumbnail.jpg
-- filename: DSCF9613
-  original: DSCF9613-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF9613-thumbnail.jpg
-- filename: DSCF9405
-  original: DSCF9405-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF9405-thumbnail.jpg
-- filename: DSCF9603
-  original: DSCF9603-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF9603-thumbnail.jpg
+  thumbnail: DSCF3035-thumbnail.jpg
 - filename: DSCF3071
   original: DSCF3071-6000x4000.jpg
   sizes: []
   thumbnail: DSCF3071-thumbnail.jpg
-- filename: DSCF9602
-  original: DSCF9602-6000x4000.jpg
+- filename: DSCF3084
+  original: DSCF3084-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF9602-thumbnail.jpg
-- filename: DSCF9614
-  original: DSCF9614-6000x4000.jpg
+  thumbnail: DSCF3084-thumbnail.jpg
+- filename: DSCF3122
+  original: DSCF3122-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF9614-thumbnail.jpg
+  thumbnail: DSCF3122-thumbnail.jpg
+- filename: DSCF3148
+  original: DSCF3148-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3148-thumbnail.jpg
+- filename: DSCF3154
+  original: DSCF3154-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3154-thumbnail.jpg
+- filename: DSCF3172
+  original: DSCF3172-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3172-thumbnail.jpg
+- filename: DSCF3180
+  original: DSCF3180-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3180-thumbnail.jpg
+- filename: DSCF3206
+  original: DSCF3206-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3206-thumbnail.jpg
+- filename: DSCF3251
+  original: DSCF3251-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3251-thumbnail.jpg
+- filename: DSCF3289
+  original: DSCF3289-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3289-thumbnail.jpg
+- filename: DSCF3326
+  original: DSCF3326-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3326-thumbnail.jpg
+- filename: DSCF3366
+  original: DSCF3366-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3366-thumbnail.jpg
+- filename: DSCF3437
+  original: DSCF3437-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3437-thumbnail.jpg
+- filename: DSCF3504
+  original: DSCF3504-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3504-thumbnail.jpg
+- filename: DSCF3521
+  original: DSCF3521-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3521-thumbnail.jpg
+- filename: DSCF3537
+  original: DSCF3537-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3537-thumbnail.jpg
+- filename: DSCF3565
+  original: DSCF3565-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3565-thumbnail.jpg
+- filename: DSCF3582
+  original: DSCF3582-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3582-thumbnail.jpg
+- filename: DSCF3606
+  original: DSCF3606-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3606-thumbnail.jpg
+- filename: DSCF3608
+  original: DSCF3608-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3608-thumbnail.jpg
+- filename: DSCF3659
+  original: DSCF3659-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF3659-thumbnail.jpg
 - filename: DSCF3660
   original: DSCF3660-6000x4000.jpg
   sizes: []
@@ -48,119 +108,59 @@ pictures:
   original: DSCF3674-6000x4000.jpg
   sizes: []
   thumbnail: DSCF3674-thumbnail.jpg
-- filename: DSCF1038
-  original: DSCF1038-6000x4000.jpg
+- filename: DSCF9405
+  original: DSCF9405-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF1038-thumbnail.jpg
-- filename: DSCF3565
-  original: DSCF3565-6000x4000.jpg
+  thumbnail: DSCF9405-thumbnail.jpg
+- filename: DSCF9412
+  original: DSCF9412-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF3565-thumbnail.jpg
-- filename: DJI_0742
-  original: DJI_0742-4048x3032.jpg
-  sizes: []
-  thumbnail: DJI_0742-thumbnail.jpg
-- filename: DSCF3148
-  original: DSCF3148-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3148-thumbnail.jpg
-- filename: DSCF3606
-  original: DSCF3606-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3606-thumbnail.jpg
-- filename: DJI_0769
-  original: DJI_0769-4048x3032.jpg
-  sizes: []
-  thumbnail: DJI_0769-thumbnail.jpg
-- filename: DSCF9674
-  original: DSCF9674-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF9674-thumbnail.jpg
-- filename: DSCF3172
-  original: DSCF3172-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3172-thumbnail.jpg
-- filename: DSCF3366
-  original: DSCF3366-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3366-thumbnail.jpg
-- filename: DSCF3206
-  original: DSCF3206-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3206-thumbnail.jpg
-- filename: DSCF9460
-  original: DSCF9460-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF9460-thumbnail.jpg
-- filename: DSCF3154
-  original: DSCF3154-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3154-thumbnail.jpg
-- filename: DSCF3035
-  original: DSCF3035-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3035-thumbnail.jpg
-- filename: DSCF9478
-  original: DSCF9478-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF9478-thumbnail.jpg
+  thumbnail: DSCF9412-thumbnail.jpg
 - filename: DSCF9452
   original: DSCF9452-6000x4000.jpg
   sizes: []
   thumbnail: DSCF9452-thumbnail.jpg
-- filename: DSCF3180
-  original: DSCF3180-6000x4000.jpg
+- filename: DSCF9460
+  original: DSCF9460-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF3180-thumbnail.jpg
-- filename: DSCF9724
-  original: DSCF9724-6000x4000.jpg
+  thumbnail: DSCF9460-thumbnail.jpg
+- filename: DSCF9478
+  original: DSCF9478-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF9724-thumbnail.jpg
-- filename: DSCF3608
-  original: DSCF3608-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3608-thumbnail.jpg
-- filename: DSCF3437
-  original: DSCF3437-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3437-thumbnail.jpg
-- filename: DSCF3582
-  original: DSCF3582-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3582-thumbnail.jpg
+  thumbnail: DSCF9478-thumbnail.jpg
 - filename: DSCF9482
   original: DSCF9482-6000x4000.jpg
   sizes: []
   thumbnail: DSCF9482-thumbnail.jpg
-- filename: DSCF9591
-  original: DSCF9591-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF9591-thumbnail.jpg
-- filename: DSCF3122
-  original: DSCF3122-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3122-thumbnail.jpg
-- filename: DSCF3521
-  original: DSCF3521-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF3521-thumbnail.jpg
 - filename: DSCF9569
   original: DSCF9569-6000x4000.jpg
   sizes: []
   thumbnail: DSCF9569-thumbnail.jpg
-- filename: DSCF3326
-  original: DSCF3326-6000x4000.jpg
+- filename: DSCF9591
+  original: DSCF9591-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF3326-thumbnail.jpg
-- filename: DSCF3084
-  original: DSCF3084-6000x4000.jpg
+  thumbnail: DSCF9591-thumbnail.jpg
+- filename: DSCF9602
+  original: DSCF9602-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF3084-thumbnail.jpg
-- filename: DSCF3537
-  original: DSCF3537-6000x4000.jpg
+  thumbnail: DSCF9602-thumbnail.jpg
+- filename: DSCF9603
+  original: DSCF9603-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF3537-thumbnail.jpg
-- filename: DSCF3251
-  original: DSCF3251-6000x4000.jpg
+  thumbnail: DSCF9603-thumbnail.jpg
+- filename: DSCF9613
+  original: DSCF9613-6000x4000.jpg
   sizes: []
-  thumbnail: DSCF3251-thumbnail.jpg
+  thumbnail: DSCF9613-thumbnail.jpg
+- filename: DSCF9614
+  original: DSCF9614-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF9614-thumbnail.jpg
+- filename: DSCF9674
+  original: DSCF9674-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF9674-thumbnail.jpg
+- filename: DSCF9724
+  original: DSCF9724-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF9724-thumbnail.jpg

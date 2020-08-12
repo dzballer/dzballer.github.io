@@ -1,46 +1,46 @@
 picture_path: Fuji_Rock
 pictures:
-- filename: DSCF6093
-  original: DSCF6093-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF6093-thumbnail.jpg
-- filename: GOPR2580
-  original: GOPR2580-4000x3000.jpg
-  sizes: []
-  thumbnail: GOPR2580-thumbnail.jpg
-- filename: DSCF6055
-  original: DSCF6055-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF6055-thumbnail.jpg
-- filename: DSCF6041
-  original: DSCF6041-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF6041-thumbnail.jpg
 - filename: DSCF5984
   original: DSCF5984-6000x4000.jpg
   sizes: []
   thumbnail: DSCF5984-thumbnail.jpg
-- filename: GOPR2592
-  original: GOPR2592-4000x3000.jpg
-  sizes: []
-  thumbnail: GOPR2592-thumbnail.jpg
-- filename: DSCF6033
-  original: DSCF6033-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF6033-thumbnail.jpg
-- filename: DSCF6195
-  original: DSCF6195-6000x4000.jpg
-  sizes: []
-  thumbnail: DSCF6195-thumbnail.jpg
 - filename: DSCF6011
   original: DSCF6011-6000x4000.jpg
   sizes: []
   thumbnail: DSCF6011-thumbnail.jpg
-- filename: GOPR2577
-  original: GOPR2577-4000x3000.jpg
+- filename: DSCF6033
+  original: DSCF6033-6000x4000.jpg
   sizes: []
-  thumbnail: GOPR2577-thumbnail.jpg
+  thumbnail: DSCF6033-thumbnail.jpg
+- filename: DSCF6041
+  original: DSCF6041-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF6041-thumbnail.jpg
+- filename: DSCF6055
+  original: DSCF6055-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF6055-thumbnail.jpg
 - filename: DSCF6062
   original: DSCF6062-6000x4000.jpg
   sizes: []
   thumbnail: DSCF6062-thumbnail.jpg
+- filename: DSCF6093
+  original: DSCF6093-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF6093-thumbnail.jpg
+- filename: DSCF6195
+  original: DSCF6195-6000x4000.jpg
+  sizes: []
+  thumbnail: DSCF6195-thumbnail.jpg
+- filename: GOPR2577
+  original: GOPR2577-4000x3000.jpg
+  sizes: []
+  thumbnail: GOPR2577-thumbnail.jpg
+- filename: GOPR2580
+  original: GOPR2580-4000x3000.jpg
+  sizes: []
+  thumbnail: GOPR2580-thumbnail.jpg
+- filename: GOPR2592
+  original: GOPR2592-4000x3000.jpg
+  sizes: []
+  thumbnail: GOPR2592-thumbnail.jpg
